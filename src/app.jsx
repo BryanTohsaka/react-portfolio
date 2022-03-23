@@ -5,6 +5,7 @@ const app = () => {
     return (
         <>
         <Header />
+        <div>hola</div>
         <Nav />
         </>
     )
